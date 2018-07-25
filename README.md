@@ -1,5 +1,5 @@
 # 17S103204
-  .gitignore
+  README.md
   server.py
   client1
     client1.py
